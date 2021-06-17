@@ -25,7 +25,7 @@ return `
 ┃ 🌐https://github.com/lblisboa/FINALBOT
 ┃
 ┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
-┃ ${p}brizasapi
+┃ ${p} Fkqmpq
 ┃ ${p}listblockcmd
 ┃ ${p}listpalavra
 ┃ ${p}info
